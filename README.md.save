@@ -2,13 +2,10 @@
 
 This project demonstrates attack, detection, and hardening of an enterprise system using a private cloud-simulated environment.
 
-## Tools Used
+Tools used:
 - Kali Linux
 - Ubuntu Server
 - Nmap
 - Hydra
 - UFW Firewall
-
-## Methodology
-Attack → Detect → Secure → Validate
 
